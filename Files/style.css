@@ -1,0 +1,19 @@
+﻿.footer{
+    clear:both;
+    background-color:black;
+    color:white;
+
+}
+.login {
+    
+    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url("images/black2.jpg");
+    background-size: cover;
+    background-position: center;
+    color: #efefef !important;
+    background-attachment: fixed;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    position: relative;
+    text-align: center;
+    color: white;
+}
